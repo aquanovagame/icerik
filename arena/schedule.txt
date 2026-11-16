@@ -1,0 +1,6 @@
+# Haftalık Mercan Arenası takvimi — her satır "yyyyMMdd tema" (arenanın açıldığı çarşamba, UTC).
+# Tema klasörü: arena/<tema>/ (Okyanus > Haftalık Tema > Tema Paketini Hazırla files.txt yazar).
+# "mercan" = oyunun içindeki tema (indirme yok). Listede olmayan haftalarda "default" kullanılır.
+# Örnek:
+# 20261125 buzul
+default mercan

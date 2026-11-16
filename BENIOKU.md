@@ -21,7 +21,8 @@ Level'lar sırayla gelmeli: 2001 yoksa 2002 ve sonrası haritada görünmez.
 1. Dosyaları yukarıdaki yerlere koy.
 2. Unity → **Okyanus → Uzak İçerik → Paket Listesini Hazırla** (files.txt yazılır, hatalı level'lar listelenir).
 3. Denemek için: **Editörde Yerel Klasörü Kullan** işaretle → Play (bu klasör sunucudan inmiş gibi davranır).
-4. Klasörün TAMAMINI (files.txt dahil) sunucuya yükle.
+4. **Okyanus → Uzak İçerik → Sunucuya Yükle (GitHub Pages)** — klasör github.com/aquanovagame/icerik deposuna
+   gönderilir, 1–5 dakikada https://aquanovagame.github.io/icerik/ adresinde yayında olur.
 
 ## Eski sürüm koruması
 
@@ -31,5 +32,5 @@ Ayrıca eski uygulama bir level'ı okuyamazsa onu atlar; harita o level'dan önc
 
 ## Sunucu
 
-`Assets/_Project/Scripts/Gameplay/RemoteContent.cs` → `BaseUrl` BOŞKEN indirme kapalıdır. Unity Cloud Content
-Delivery kovası açılınca adresi oraya yazılır ve o sürümden itibaren telefonlar indirmeye başlar.
+GitHub Pages (ücretsiz, kart yok): `RemoteContent.BaseUrl = https://aquanovagame.github.io/icerik/`. Bu adresi
+taşıyan sürümden itibaren telefonlar indirmeye başlar. Depo kopyası: projenin yanındaki `AquanovaIcerik` klasörü.
