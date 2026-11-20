@@ -1,0 +1,18 @@
+level: 660
+band: VeryHard
+moves: 21
+colors: 4
+goal: ClearCrate All
+goal: ClearIce All
+goal: CollectColor Crab 180
+stars: 14900 29900 47800
+region: Bölge 12
+map:
+##.Z.##
+#..D..#
+.ZRIFZ.
+.RIIIF.
+.RIIIF.
+.ZFIFZ.
+#..R..#
+##.Z.##

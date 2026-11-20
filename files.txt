@@ -1,1 +1,2 @@
-# AquaNova uzak içerik — henüz dosya yok
+# AquaNova uzak içerik — Okyanus > Uzak İçerik > Paket Listesini Hazırla yazdı
+LevelOverrides/Level_0660.txt 9e4be3bde9d8
