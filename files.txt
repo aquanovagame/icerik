@@ -1,2 +1,8 @@
 # AquaNova uzak içerik — Okyanus > Uzak İçerik > Paket Listesini Hazırla yazdı
+LevelOverrides/Level_0009.txt 77d53189650f
+LevelOverrides/Level_0010.txt 35294e0e79ba
+LevelOverrides/Level_0014.txt 5eb22b54b8bb
+LevelOverrides/Level_0016.txt 3c8d38f7a497
+LevelOverrides/Level_0017.txt b4c9b670c4a9
+LevelOverrides/Level_0018.txt 99db3156505f
 LevelOverrides/Level_0660.txt 9e4be3bde9d8

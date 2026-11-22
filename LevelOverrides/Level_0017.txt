@@ -1,0 +1,18 @@
+# AquaNova — Level Düzenleyici ile kaydedildi
+level: 17
+band: Medium
+moves: 20
+colors: 4
+goal: OpenBottle All
+goal: CollectColor Crab 40
+goal: CollectColor Starfish 35
+stars: 3400 6800 10900
+region: Sığ Sular
+map:
+..###..
+...#...
+#.....#
+##WWW##
+#WWWWW#
+WWWWWWW
+..###..

@@ -1,0 +1,17 @@
+# AquaNova — Level Düzenleyici ile kaydedildi
+level: 16
+band: Easy
+moves: 18
+colors: 4
+goal: OpenBottle All
+goal: CollectColor Seahorse 40
+goal: CollectColor Shell 35
+stars: 2400 4800 7700
+region: Sığ Sular
+map:
+W....W
+W....W
+W.##.W
+W.##.W
+W....W
+W....W

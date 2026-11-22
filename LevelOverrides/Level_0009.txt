@@ -1,0 +1,18 @@
+# AquaNova — Level Düzenleyici ile kaydedildi
+level: 9
+band: Medium
+moves: 22
+colors: 5
+goal: ClearCrate All
+goal: CollectColor Crab 60
+goal: CollectColor Seahorse 50
+stars: 4400 8800 14100
+region: Sığ Sular
+map:
+F.....F
+FF...FF
+.FF.FF.
+..F.F..
+.FF.FF.
+FF...FF
+F.....F
