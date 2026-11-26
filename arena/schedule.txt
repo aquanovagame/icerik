@@ -3,4 +3,5 @@
 # "mercan" = oyunun içindeki tema (indirme yok). Listede olmayan haftalarda "default" kullanılır.
 # Örnek:
 # 20261125 buzul
+20261202 turuncu
 default mercan
