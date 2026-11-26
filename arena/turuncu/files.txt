@@ -11,4 +11,7 @@ Arena_4.jpg c8447de04a9e
 Arena_5.jpg 93c540279602
 Arena_6.jpg 532235cbcc9b
 Arena_7.jpg d767dd4ae664
+Bottle1.png 98026d36a9fc
+Bottle2.png 37775323a8ae
+Bottle3.png 089d1eb0c50c
 Duello_Katil_Dugme.png 861b69c45b70
