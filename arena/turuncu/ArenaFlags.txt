@@ -1,0 +1,2 @@
+# Tema ayarları (0.1.7+ okur): her satırda bir bayrak
+NoPodiumNumbers
