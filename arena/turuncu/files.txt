@@ -1,4 +1,5 @@
-# AquaNova arena temasi — turuncu (Okyanus > Haftalik Tema formatinda)
+# AquaNova arena temasi — turuncu / Sonbahar Kupasi
+ArenaName.txt c27aba9d175f
 ArenaNodes.txt 8bf97790a58a
 Arena_1.jpg 804b2e462282
 Arena_2.jpg 102008f3bae9

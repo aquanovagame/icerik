@@ -1,0 +1,13 @@
+# Arena adı (0.1.7+ okur): her satır "dil-kodu ad"
+tr Sonbahar Kupası
+en Autumn Cup
+de Herbstpokal
+es Copa de Otoño
+pt Copa de Outono
+fr Coupe d'Automne
+id Piala Musim Gugur
+ru Осенний Кубок
+ja 秋のカップ
+ko 가을 컵
+zh-Hans 秋季杯
+zh-Hant 秋季盃
