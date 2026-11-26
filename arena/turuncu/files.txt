@@ -20,6 +20,9 @@ Crate3.png 7f2778a97dd3
 Duello_Katil_Dugme.png 861b69c45b70
 IceStage1.png c5ba1b8ca0ad
 IceStage2.png e411633c0c97
+Lotus0.png c62cbeed4aeb
+Lotus1.png 8c6abf171d89
+Lotus2.png 5984e3d95e6f
 NetStage1.png 09e3bb6803d6
 NetStage2.png 1c211da93e51
 NetStage3.png 0175cf542a7f
