@@ -2,6 +2,7 @@
 ArenaAnnounceFrame.png d22370a4a6ea
 ArenaName.txt c27aba9d175f
 ArenaNodes.txt 8bf97790a58a
+ArenaRankBoard.jpg 12223ed47753
 Arena_1.jpg 804b2e462282
 Arena_2.jpg 102008f3bae9
 Arena_3.jpg e573c8520085
