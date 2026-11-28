@@ -1,7 +1,7 @@
 # AquaNova arena temasi — turuncu / Sonbahar Kupasi
 ArenaAnnounceFrame.png d22370a4a6ea
 ArenaFlags.txt aa32fcb427e9
-ArenaLevelBackground.jpg a01e0afe0244
+ArenaLevelBackground.jpg ce670cb08cf8
 ArenaLevels.txt 55f44342d89a
 ArenaName.txt c27aba9d175f
 ArenaNodes.txt 8bf97790a58a
