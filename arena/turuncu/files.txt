@@ -30,3 +30,4 @@ NetStage2.png 1c211da93e51
 NetStage3.png 0175cf542a7f
 NetStage4.png f24d17b94d82
 NetStage5.png 3a58690f8d1a
+ArenaMusic.ogg a0b815fa9592
